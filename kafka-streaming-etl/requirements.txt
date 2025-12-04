@@ -1,1 +1,5 @@
-# Define dependencies here
+requests
+psycopg2-binary
+pymongo
+elasticsearch
+boto3
