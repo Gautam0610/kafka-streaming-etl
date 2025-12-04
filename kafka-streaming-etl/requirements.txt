@@ -3,3 +3,4 @@ psycopg2-binary
 pymongo
 elasticsearch
 boto3
+prometheus_client
